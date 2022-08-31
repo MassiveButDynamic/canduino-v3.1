@@ -1,4 +1,4 @@
-# CANdunio v3
+# CANdunio v3.1
 
 Here you can find a tutorial how to get started with your CANduino `v3.1`. Please make sure that you really use the `v3.1`, because on `v3` the CS_Pin was `CS_Pin 8`!
 
