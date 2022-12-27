@@ -34,3 +34,8 @@ Please use our instructions for v3 which you can find here: https://github.com/M
 
 Here you can find a pinout of the CANduino v3.1:
 ![Pinout](/Pinout-CANduinov3.1.png)
+
+## Dimensions
+
+Here you can find the Dimensions of the CANduino v3.1:
+![Pinout](/CANduino_v3.1_(Dimensions).png)
