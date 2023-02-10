@@ -2,6 +2,8 @@
 
 Here you can find a tutorial how to get started with your CANduino `v3.1`. Please make sure that you really use the `v3.1`, because on `v3` the CS_Pin was `CS_Pin 8`!
 
+If you don't have a CANduino yet, you can buy one here: https://canduino.de
+
 ## Getting started
 
 Before we can start with the program it is important to check if the jumper `CAN_CS` (on top next to the USB-C port) is connected to a soldering point. Only if this is connected, it is possible to address the mcp2515.
